@@ -1,4 +1,4 @@
-# 📫 Reach me😉: 
+## 📫 Reach me😉: 
 <br>
 
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
@@ -16,7 +16,7 @@
 
 <br>
 
-## Hii👋, 
+## A Little About me👋, 
 <p>
   <em>
     A budding <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Flutter    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
