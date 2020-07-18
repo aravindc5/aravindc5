@@ -1,16 +1,18 @@
-### Hi there 👋
+# Aravind C
+- 📫 Reach me: 
+- [twitter.com/arvii_14](https://twitter.com/arvii_14)
+- [linkedin.com/in/aravindc1999](https://www.linkedin.com/in/aravindc1999/)
+- [instagram.com/@arvi14_](https://www.instagram.com/arvi14_/)
 
-<!--
-**aravindc5/aravindc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hii👋, 
+I'm Aravind, I am passionate about technologies and open source. I am a Android Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Macco Robotics
+- 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Android Applications
-- 🤔 I’m looking for help with Flutter State Management
-- 💬 Ask me about Movies
-- 📫 How to reach me: Twitter- @arvii_14
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->
+- 💬 Hobbies : Watching Series and Movies
+-  ⚡ Languages: Java, Kotlin, Dart
+
+
+---
+
