@@ -22,7 +22,7 @@
 ## 📫 Reach me😉: 
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/aravindc1999/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/arvii_14">
